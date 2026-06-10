@@ -1,43 +1,115 @@
-# Hi, I'm Emran Younas 👋
+# 👋 Hi, I'm Emran Younas
 
-## IT Manager | Cloud & Infrastructure Specialist
+### IT Manager | Microsoft 365 Administrator | Azure Cloud Specialist | Network Infrastructure & Cybersecurity Professional
 
-Experienced IT professional with expertise in Cloud Technologies, Microsoft 365 Administration, Network Infrastructure, Cybersecurity, and IT Operations Management.
+Experienced IT professional with expertise in Cloud Technologies, Microsoft 365 Administration, Azure Cloud Services, Network Infrastructure, Cybersecurity, IT Operations Management, and Digital Transformation. Passionate about building secure, scalable, and efficient IT solutions that help businesses achieve their goals.
 
-### 🚀 About Me
+---
+
+## 🚀 About Me
 
 - 💼 IT Manager
 - ☁️ Azure Cloud Enthusiast
-- 🔐 Cybersecurity Focused
 - 🏢 Microsoft 365 Administrator
 - 🌐 Network Infrastructure Specialist
+- 🔐 Cybersecurity Focused
 - 🤖 Exploring AI-Powered IT Solutions
+- 📍 Dubai, UAE
+- 📚 Continuous Learner and Technology Enthusiast
 
-### 🛠️ Technologies & Tools
+---
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Technologies & Tools
 
-### 🎯 Current Focus
+### Cloud & Infrastructure
+- Microsoft Azure
+- Microsoft 365
+- Windows Server
+- Active Directory
+- Microsoft Entra ID
+- Exchange Online
+- SharePoint Online
+
+### Networking
+- Cisco Networking
+- Network Administration
+- VPN Configuration
+- Firewall Management
+- Network Security
+
+### Automation & Development
+- PowerShell
+- Git
+- GitHub
+- IT Automation
+- Scripting & Documentation
+
+### Security
+- Cybersecurity Best Practices
+- Identity & Access Management
+- Security Monitoring
+- Risk Assessment
+- Endpoint Protection
+
+---
+
+## 🎯 Current Focus
 
 - Azure Cloud Infrastructure
 - Microsoft 365 Administration
 - PowerShell Automation
-- Cybersecurity Best Practices
-- AI for IT Operations
+- IT Operations Management
+- Cybersecurity Enhancement
+- AI-Powered IT Solutions
+- Digital Transformation Projects
 
-### 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emranyounasdxb-ai&show_icons=true)
+## 📂 Featured Projects
 
-### 📫 Connect With Me
+### Azure-Automation
+Azure administration and automation scripts for efficient cloud management.
 
-- LinkedIn: (https://www.linkedin.com/in/emran-younas-641903223)
-- Email: emranyounasdxb@gmail.com
+### PowerShell-Scripts
+PowerShell scripts designed to automate routine IT tasks and improve operational efficiency.
+
+### Microsoft365-Admin
+Microsoft 365 administration guides, scripts, and best practices.
+
+### IT-Infrastructure-Docs
+Infrastructure documentation, deployment procedures, and operational standards.
+
+---
+
+## 📈 Professional Interests
+
+- Cloud Computing
+- IT Infrastructure
+- Cybersecurity
+- Network Engineering
+- Digital Transformation
+- IT Service Management (ITSM)
+- Automation & Process Improvement
+- Artificial Intelligence for IT Operations
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/emran-younas-641903223/
+
+📧 Email  
+emranyounasdxb@gmail.com
+
+📍 Location  
+Dubai, United Arab Emirates
+
+---
+
+## 🌟 Professional Statement
+
+As an IT Manager, I am committed to delivering reliable, secure, and scalable technology solutions. My goal is to leverage cloud technologies, automation, and cybersecurity best practices to create efficient IT environments that support business growth and innovation.
 
 ---
 
