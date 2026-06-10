@@ -36,7 +36,7 @@ Experienced IT professional with expertise in Cloud Technologies, Microsoft 365 
 
 ### 📫 Connect With Me
 
-- LinkedIn: Add Your LinkedIn URL
+- LinkedIn: (https://www.linkedin.com/in/emran-younas-641903223/?skipRedirect=true)
 - Email: emranyounasdxb@gmail.com
 
 ---
